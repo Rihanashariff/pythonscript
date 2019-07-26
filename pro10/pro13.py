@@ -1,7 +1,7 @@
-p,u=map(int,input().split())
+pu,u=map(int,input().split())
 lst1=list(map(int,input().split()))
 l=[]
-for i in range(0,sa):
+for i in range(0,u):
      x,y=map(int,input().split())
      l.append([x,y])
 for i in range(u):
