@@ -1,2 +1,2 @@
-put = int(input())
-print((put*(put-1))//2)
+r= int(input())
+print((r*(r-1))//2)
