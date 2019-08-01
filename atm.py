@@ -38,6 +38,6 @@ else:
                       else:
                         print(exit);
                        
-       print("withdrawl:2000")
+       
        print("transaction has been successful")
         
