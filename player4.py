@@ -1,3 +1,3 @@
-n=input()
-n =''.join((n,'.'))
-print(n)
+p=input()
+p =''.join((p,'.'))
+print(p)
